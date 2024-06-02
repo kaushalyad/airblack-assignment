@@ -13,7 +13,7 @@ const Footer = () => {
           Apply Now
         </button>
       </div>
-      <div className="flex flex-row gap-5 mt-5">
+      <div className="flex flex-row gap-5 mt-10">
         <div className=" cursor-pointer">
           <img
             src="./logos/instagram.svg"
@@ -32,7 +32,7 @@ const Footer = () => {
             className=" mobile:w-12 tablet:w-16"
           />
         </div>
-        <div className=" cursor-pointer">
+        <div className="cursor-pointer">
           <img src="./logos/twitter.svg" className=" mobile:w-12 tablet:w-16" />
         </div>
       </div>
