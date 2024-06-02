@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.587243e8.css",
-    "main.js": "/static/js/main.24d47bce.js",
-    "static/js/453.a6a97343.chunk.js": "/static/js/453.a6a97343.chunk.js",
-    "static/media/footer-background.png": "/static/media/footer-background.f627790c8c618d0ad6e8.png",
-    "index.html": "/index.html",
-    "main.587243e8.css.map": "/static/css/main.587243e8.css.map",
-    "main.24d47bce.js.map": "/static/js/main.24d47bce.js.map",
-    "453.a6a97343.chunk.js.map": "/static/js/453.a6a97343.chunk.js.map"
+    "main.css": "/airblack-assignment)/static/css/main.12d37caa.css",
+    "main.js": "/airblack-assignment)/static/js/main.fa24776e.js",
+    "static/js/453.a6a97343.chunk.js": "/airblack-assignment)/static/js/453.a6a97343.chunk.js",
+    "static/media/footer-background.png": "/airblack-assignment)/static/media/footer-background.f627790c8c618d0ad6e8.png",
+    "index.html": "/airblack-assignment)/index.html",
+    "main.12d37caa.css.map": "/airblack-assignment)/static/css/main.12d37caa.css.map",
+    "main.fa24776e.js.map": "/airblack-assignment)/static/js/main.fa24776e.js.map",
+    "453.a6a97343.chunk.js.map": "/airblack-assignment)/static/js/453.a6a97343.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.587243e8.css",
-    "static/js/main.24d47bce.js"
+    "static/css/main.12d37caa.css",
+    "static/js/main.fa24776e.js"
   ]
 }
