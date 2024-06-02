@@ -21,19 +21,24 @@ const Main = () => {
       <div className="flex flex-row mt-5 gap-6 justify-between items-center ">
         <div className="flex flex-col justify-center items-center gap-4">
           <img src="./logos/video.svg" className=" mobile:w-12 tablet:w-20" />
-          <p className=" mobile:text-lg tablet:text-3xl">
+          <p className=" mobile:text-sm tablet:text-3xl">
             Do-it-together, live on zoom
           </p>
         </div>
         <div className="flex flex-col justify-center items-center gap-4">
           <img src="./logos/star.svg" className=" mobile: w-12 tablet:w-20" />
-          <p className=" mobile:text-lg tablet:text-3xl">
-            4.8 /5 Rated Classes
+          <div className=" flex flex-col">
+          <p className=" mobile:text-sm tablet:text-3xl">
+            4.8 /5 
           </p>
+          <p className=" mobile:text-sm tablet:text-3xl">
+            Rated Classes
+          </p>
+          </div>
         </div>
         <div className="flex flex-col justify-center items-center gap-4">
           <img src="./logos/people.svg" className=" mobile:w-12 tablet:w-20" />
-          <p className=" mobile:text-lg tablet:text-3xl">35000+ Members</p>
+          <p className=" mobile:text-sm tablet:text-3xl">35000+ Members</p>
         </div>
       </div>
       <div className="  mobile: w-[90%] tablet:w-[50%] mt-5">
