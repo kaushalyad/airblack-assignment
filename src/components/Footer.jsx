@@ -15,13 +15,22 @@ const Footer = () => {
       </div>
       <div className="flex flex-row gap-5 mt-5">
         <div className=" cursor-pointer">
-          <img src="./logos/instagram.svg" className=" mobile:w-12 tablet:w-16" />
+          <img
+            src="./logos/instagram.svg"
+            className=" mobile:w-12 tablet:w-16"
+          />
         </div>
         <div className=" cursor-pointer">
-          <img src="./logos/facebook.svg" className=" mobile:w-12 tablet:w-16" />
+          <img
+            src="./logos/facebook.svg"
+            className=" mobile:w-12 tablet:w-16"
+          />
         </div>
         <div className=" cursor-pointer">
-          <img src="./logos/linkedin.svg" className=" mobile:w-12 tablet:w-16" />
+          <img
+            src="./logos/linkedin.svg"
+            className=" mobile:w-12 tablet:w-16"
+          />
         </div>
         <div className=" cursor-pointer">
           <img src="./logos/twitter.svg" className=" mobile:w-12 tablet:w-16" />

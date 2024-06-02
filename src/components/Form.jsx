@@ -93,7 +93,7 @@ const Form = () => {
               onChange={handleChange}
               className="w-full px-3 py-2 border rounded-md mt-1 text-gray-400"
             >
-              <option >Choose the most relevant option</option>
+              <option>Choose the most relevant option</option>
               <option value="new-york">New York</option>
               <option value="developer">Developer</option>
               <option value="designer">Designer</option>
