@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/airblack-assignment/static/css/main.d50963d0.css",
-    "main.js": "/airblack-assignment/static/js/main.8a489683.js",
+    "main.css": "/airblack-assignment/static/css/main.adb9aa2e.css",
+    "main.js": "/airblack-assignment/static/js/main.206bc725.js",
     "static/js/453.a6a97343.chunk.js": "/airblack-assignment/static/js/453.a6a97343.chunk.js",
     "static/media/footer-background.png": "/airblack-assignment/static/media/footer-background.f627790c8c618d0ad6e8.png",
     "index.html": "/airblack-assignment/index.html",
-    "main.d50963d0.css.map": "/airblack-assignment/static/css/main.d50963d0.css.map",
-    "main.8a489683.js.map": "/airblack-assignment/static/js/main.8a489683.js.map",
+    "main.adb9aa2e.css.map": "/airblack-assignment/static/css/main.adb9aa2e.css.map",
+    "main.206bc725.js.map": "/airblack-assignment/static/js/main.206bc725.js.map",
     "453.a6a97343.chunk.js.map": "/airblack-assignment/static/js/453.a6a97343.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d50963d0.css",
-    "static/js/main.8a489683.js"
+    "static/css/main.adb9aa2e.css",
+    "static/js/main.206bc725.js"
   ]
 }
