@@ -150,7 +150,7 @@ const Form = () => {
             </select>
           </div>
 
-          <div className="text-center">
+          <div className="text-center pb-2">
             <button className="bg-gradient-to-r from-[#F56563] to-[#E54988] text-white-A700 w-[100%] py-2 rounded-md font-proxima  font-bold mobile:text-lg tablet:text-2xl">
               Submit
             </button>

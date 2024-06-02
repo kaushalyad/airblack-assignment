@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <div className=" bg-cover bg-[url('./assets/images/footer-background.png')] w-screen text-center  h-screen flex flex-col gap-6 justify-center items-center pt-24">
       <div>
-        <p className="text-white-A700 font-proxima mobile:text-3xl tablet:text-5xl  font-semibold leading-30px text-center max-w-100">
+        <p className="text-white-A700 font-proxima mobile:text-3xl tablet:text-5xl  font-semibold leading-30px text-center max-w-100 mobile: mx-5">
           Join our growing community of 35,000+ alumni
         </p>
       </div>
