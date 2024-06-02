@@ -28,12 +28,8 @@ const Main = () => {
         <div className="flex flex-col justify-center items-center gap-4">
           <img src="./logos/star.svg" className=" mobile: w-12 tablet:w-20" />
           <div className=" flex flex-col">
-          <p className=" mobile:text-sm tablet:text-3xl">
-            4.8 /5 
-          </p>
-          <p className=" mobile:text-sm tablet:text-3xl">
-            Rated Classes
-          </p>
+            <p className=" mobile:text-sm tablet:text-3xl">4.8 /5</p>
+            <p className=" mobile:text-sm tablet:text-3xl">Rated Classes</p>
           </div>
         </div>
         <div className="flex flex-col justify-center items-center gap-4">

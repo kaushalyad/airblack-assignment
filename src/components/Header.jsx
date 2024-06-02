@@ -7,7 +7,7 @@ const Header = () => {
         <div>
           <img
             src="./logos/Airblack Beauty Club Logo.svg"
-            className="  mobile: w-32 tablet:w-64"
+            className="  mobile: w-24 tablet:w-64"
           />
         </div>
         <div>
