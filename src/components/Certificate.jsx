@@ -18,7 +18,7 @@ const Certificate = () => {
           </div>
         </div>
       </div>
-      <div className=" mt-10">
+      <div className=" mt-10 pb-5">
         <img src="./images/certificate.png" className=" w-[900px]" />
       </div>
     </div>

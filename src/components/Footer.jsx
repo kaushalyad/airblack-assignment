@@ -17,6 +17,7 @@ const Footer = () => {
         <div className=" cursor-pointer">
           <img
             src="./logos/instagram.svg"
+            alt=""
             className=" mobile:w-12 tablet:w-16"
           />
         </div>
